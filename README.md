@@ -47,5 +47,3 @@ OR using Cargo:
 ```sh
 cargo run
 ```
-
----
