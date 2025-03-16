@@ -3,5 +3,15 @@
     "account_number": 48,
     "holder_name": "micheal\n",
     "balance": 0.0
+  },
+  {
+    "account_number": 30,
+    "holder_name": "f\n",
+    "balance": 0.0
+  },
+  {
+    "account_number": 50,
+    "holder_name": "h",
+    "balance": 0.0
   }
 ]
